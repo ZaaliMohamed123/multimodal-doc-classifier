@@ -317,14 +317,6 @@ The system will:
 
 ***
 
-## 👥 Team
-
-- **Zaali Mohamed** – Data / NLP / CV
-- **Sekal Douaa** – CV models / multi-agent architecture
-- **EL MAHDALI Adam** – Pipeline / evaluation / integration
-
-***
-
 ## 🧭 Roadmap
 
 - [x] Collect and prepare datasets (715 images, 6 classes)
@@ -337,6 +329,4 @@ The system will:
 
 ***
 
-## 📄 License
 
-Specify your license here (e.g. MIT, Apache-2.0, or “for academic use only”).
